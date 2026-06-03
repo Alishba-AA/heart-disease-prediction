@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Heart-Disease-Prediction
 Heart Disease Prediction using Machine Learning
 
 ## Objective
